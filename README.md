@@ -19,13 +19,6 @@ add to src\
 
 ## Output
 
-Cloud Storage for Firebase
-Introduction
-<a href="https://firebase.google.com/docs/storage">Read more about Cloud Storage for Firebase</a>
+https://github.com/firebase/quickstart-android/tree/master/storage
 
-Getting Started
-<a href="https://firebase.google.com/docs/android/setup">Add Firebase to your Android Project.</a>
-
- The package name you'll use is com.bunim.firebase.
-Run the Android application on your Android device or emulator. The app prompts you to sign in, so make sure to enable anonymous authentication for your project https://console.firebase.google.com/project/_/authentication/providers.
-Screenshots
+https://firebase.google.com/docs/cloud-messaging/android/client
