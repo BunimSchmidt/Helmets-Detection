@@ -2,7 +2,7 @@
 
 ## This project is a helmet detector implemented in Python with OpenCV and Tensorflow.
 
-### Download Tensorflow models
+## Download Tensorflow models
 
 the project uses the faster_rcnn_inception_v2_coco model to detect humans and a Tensorflow model to detect helmets.
 it is too heavy uploading it to GitHub. so please download these 2 models from Google Drive.
@@ -15,7 +15,7 @@ Add to main
 3. frozen_inference_graph.pb -
 add to src\
 
-## create a video folder and add any video to it.
+### create a video folder and add any video to it.
 
 ## Install the app below and upload a video to Firebase through it
 
