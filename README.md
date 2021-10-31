@@ -15,10 +15,16 @@ Add to main
 3. frozen_inference_graph.pb -
 add to src\
 
-### create a video folder and add any video to it.
+## create a video folder and add any video to it.
 
-## Output
+## Install the app below and upload a video to Firebase through it
 
 https://github.com/firebase/quickstart-android/tree/master/storage
 
+## add to the app Firebase Cloud Messaging
+
 https://firebase.google.com/docs/cloud-messaging/android/client
+
+## Output
+
+receiving a message with an image with the human without a helmet.
