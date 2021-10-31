@@ -1,0 +1,8 @@
+Pillow == 8.2.0
+numpy == 1.19.5
+opencv-python 
+tensorflow == 2.5.0-rc0
+google-cloud-storage
+tensorflow_datasets
+firebase_admin
+
